@@ -6,8 +6,7 @@ import EducationComponent from '../components/Education.component';
 
 const Description = styled.div`
     text-align: center;
-    margin: -15vh 0vw;
-    padding: 0px 0px 10px 0px;
+    padding: 120px 0px 10px 0px;
 `;
 
 function ProfileSection() {

@@ -7,7 +7,7 @@ import styled from 'styled-components';
 
 const PaperMain = styled(Paper)`
     margin: -100px 30px 0px;
-    padding: 10px 5vw 100px 5vw;
+    padding: 10px 5vw 10px 5vw;
     position: relative;
 `;
 

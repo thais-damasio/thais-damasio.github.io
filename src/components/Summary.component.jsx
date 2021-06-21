@@ -15,7 +15,7 @@ function SummaryComponent() {
     return (
         <Summary>
             <p>
-                Hi! I am pursuing my master's degree in Computer Science at <a href={UFMGURL}>UFMG</a> (Federal University of Minas Gerais) and I am working in the <a href={CompilersLabURL}>Compilers Lab</a> under the supervision of <a href={FernandoURL}>Fernando M. Q. Pereira</a>. I love studying and I have a passion for the academic environment. Currently, I am focusing my efforts in researches in the compilers and programming languages area, which sparked my interest. <br />
+                Hi! I am pursuing my master's degree in Computer Science at <a href={UFMGURL}>UFMG</a> (Federal University of Minas Gerais) and I am working in the <a href={CompilersLabURL}>Compilers Lab</a> under the supervision of <a href={FernandoURL}>Fernando M. Q. Pereira</a>. I love studying and I have a passion for the academic environment. Currently, I am focusing my efforts in research in the compilers and programming languages area, which sparked my interest. <br />
                         I am motivated by challenges and I love innovating 🚀 <br />
                         A little bit about me:
                     </p>
